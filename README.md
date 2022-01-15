@@ -1,5 +1,4 @@
-# EmojiCaptchaTelegramBot
-
-<img src="captcha.jpg"/>
-
-a sample bot for going user to group and check for **bot** or person?
+<div align="center">
+  <h1>Emoji</h1>
+  <img src="/EmojiFolder/⛑%EF%B8%8F.png" alt="emoji"/>
+  </div>
