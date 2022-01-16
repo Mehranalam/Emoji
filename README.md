@@ -11,6 +11,5 @@
 
 ### How ?
 
-[Create a Bot in botFather](https://core.telegram.org/bots)
-
-[what is bot in telegram app](https://telegram.org/blog/bot-revolution#:~:text=Bots%20are%20simply%20Telegram%20accounts,to%20the%20Internet%20of%20Things.)
+- [Create a Bot in botFather](https://core.telegram.org/bots)
+- [what is bot in telegram app](https://telegram.org/blog/bot-revolution#:~:text=Bots%20are%20simply%20Telegram%20accounts,to%20the%20Internet%20of%20Things.)
