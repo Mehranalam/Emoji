@@ -5,8 +5,8 @@
   
  
  this repo store a Awoesome **telegram bot** for protect 
- from your large group from bot attack.
-
+ & Control from your large group 
+ 
 ### How to use ?
 
 -  create a bot and get a token from Botfather
