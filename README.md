@@ -1,8 +1,8 @@
 <div align="center">
   <h1>Emoji</h1>
-  <img src="/EmojiFolder/⛑%EF%B8%8F.png" alt="emoji"/> <img src="/EmojiFolder/🇮🇷.png" alt="emoji"/>
+  <img src="/EmojiFolder/⛑%EF%B8%8F.png" alt="emoji"/> <img src="/EmojiFolder/🇮🇷.png" alt="emoji"/> <img src="/EmojiFolder/🍔.png" alt="emoji"/>
   </div>
-  
+
  this repo store a Awoesome **telegram bot** for protect 
  & Control from your large group 
  
