@@ -3,8 +3,7 @@
   <img src="/EmojiFolder/⛑%EF%B8%8F.png" alt="emoji"/> <img src="/EmojiFolder/🇮🇷.png" alt="emoji"/> <img src="/EmojiFolder/🍔.png" alt="emoji"/>
   </div>
 
- This repo store a Awoesome **telegram bot** for protect 
- & Control from your large group 
+ This repo store a Awoesome **telegram bot** ; you are **Bot** or **Person**.
  
 ### How to use ?
 
