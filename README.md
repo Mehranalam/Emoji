@@ -3,6 +3,9 @@
   <img src="/EmojiFolder/⛑%EF%B8%8F.png" alt="emoji"/>
   </div>
   
+ 
+ this repo store a Awoesome **telegram bot** for protect 
+ from your large group from bot attack.
 
 ### How to use ?
 
