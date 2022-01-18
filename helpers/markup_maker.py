@@ -1,4 +1,4 @@
-# (c) @NEOTRINOST-IRAN
+# (c) @MEHRANALAM-IRAN
 
 async def MakeCaptchaMarkup(markup, __emoji, indicator):
     __markup = markup
