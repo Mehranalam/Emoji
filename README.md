@@ -12,6 +12,7 @@
 -  complement of config.py file 
 -  if you have problem just open 1 issue
 -  for deploy and use you can create a account in [heroku](https://www.heroku.com)
+-  and bot should to be admin with full access
 -  Enjoy and donate :)
 
 
