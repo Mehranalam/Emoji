@@ -111,12 +111,23 @@ async def welcome_handler(bot: Client, event: Message):
             text=f"{event.from_user.mention}, to chat here, please verify that you are not a robot.",
             reply_markup=InlineKeyboardMarkup([
                 [InlineKeyboardButton("Verify Now", callback_data=f"._{str(event.from_user.id)}")]
+                , [InlineKeyboardButton("🤠 Admin : Time out!", callback_data=f"admin_{str(event.from_user.id)}")]
             ])
         )
 
 
 @CaptchaBot.on_callback_query()
 async def buttons_handlers(bot: Client, cb: CallbackQuery):
+
+    if cb.data.startswith("admin_"):
+        if cb.from_user.status == "creator" or cb.from_user.status == "administrator":
+            """❌  re-joined the group without verifying themselves. They can try again later."""
+            await CaptchaBot.send_message(cb.message.chat.id, f"""Hey {cb.from_user.mention} ,❌  re-joined the group without verifying themselves. They can try again later.""" , disable_web_page_preview=True)
+        else:
+            pass
+            await cb.answer("❌  You're not a admin ", show_alert=True)
+            # TODO : ADD MESSAGE TO BANNED
+
     if cb.data.startswith("._"):
         __user = cb.data.split("_")[1]
         if cb.from_user.id != int(__user):
