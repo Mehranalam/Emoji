@@ -2,7 +2,12 @@
   <h1>Emoji</h1>
   <img src="/EmojiFolder/⛑%EF%B8%8F.png" alt="emoji"/> <img src="/EmojiFolder/🇮🇷.png" alt="emoji"/> <img src="/EmojiFolder/🍔.png" alt="emoji"/><br/>
   </div>
-
+  
+  
+<details>
+<summary>What exactly does this telegram robot do?</summary>
+<img src="/screenShots/Screenshot_2022-01-10_13-54-54.png" width="200" height"300"/>
+</details>
 
  This repo store a Awoesome **telegram bot** ; you are **Bot** or **Person**.
  
