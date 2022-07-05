@@ -4,7 +4,7 @@
   <br>
   <p>This repo store a Awoesome **telegram bot** ; you are <b>Bot</b> or <b>Person</b>.</p>
  
- <img src="https://img.shields.io/github/languages/code-size/distroteam/Emoji"> <img src="https://img.shields.io/github/stars/distroteam/todo">   
+ <img src="https://img.shields.io/github/languages/code-size/distroteam/Emoji"> 
 </div>
 
 
