@@ -1,9 +1,11 @@
 <div align="center">
   <h1>Emoji</h1>
   <img src="/EmojiFolder/⛑%EF%B8%8F.png" alt="emoji"/> <img src="/EmojiFolder/🇮🇷.png" alt="emoji"/> <img src="/EmojiFolder/🍔.png" alt="emoji"/><br/>
-  </div>
-
- This repo store a Awoesome **telegram bot** ; you are **Bot** or **Person**.
+  <br>
+  <p>This repo store a Awoesome **telegram bot** ; you are <b>Bot</b> or <b>Person</b>.</p>
  
- ![s](https://img.shields.io/github/languages/code-size/distroteam/todo) ![h](https://img.shields.io/github/stars/distroteam/todo)   
+ <img src="https://img.shields.io/github/languages/code-size/distroteam/Emoji"> <img src="https://img.shields.io/github/stars/distroteam/todo">   
+</div>
+
+
 
