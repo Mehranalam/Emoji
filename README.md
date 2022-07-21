@@ -1,4 +1,4 @@
-# Emoji - An amazing Telegram bot
+# Emoji - An amazing Telegram bot . [HomePage](https://mehranalam.github.io/Emoji/)
 
 ## Contributing
 
