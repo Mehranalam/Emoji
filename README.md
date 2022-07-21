@@ -2,7 +2,7 @@
 
 ## Contributing
 
-You can add new features to this project by forking it. If you don't have an idea, you can choose from the TODO section and work to make this project bigger.
+You can add new features to this project by forking it. If you don't have an idea, you can choose from the [TODO](TODO.md) section and work to make this project bigger.
 
 For local development, [PIP](https://pypi.org/project/pip/) is preferred as package manager:
 
