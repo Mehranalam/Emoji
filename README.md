@@ -1,5 +1,8 @@
 # Emoji - An amazing Telegram bot . [HomePage](https://mehranalam.github.io/Emoji/)
 
+[![status](https://img.shields.io/badge/status-in%20Process-orange)](https://github.com/Mehranalam/)
+
+
 ## Contributing
 
 You can add new features to this project by forking it. If you don't have an idea, you can choose from the [TODO](TODO.md) section and work to make this project bigger.
